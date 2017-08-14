@@ -1,0 +1,17 @@
+.navbar .nav-brand {
+    color: rgba(255, 255, 255, .85);
+    font-size: 1rem;
+    padding-top: .45rem;
+}
+
+.jumbotron {
+    text-align: center;
+    background: linear-gradient(90deg, #d4eece, #55b3d0, #1e7eb7), url('../img/2016_Brooklyn_College_campus.jpg'), no-repeat;
+    background-blend-mode: multiply;
+    background-size: cover;
+}
+
+.btn,
+.active {
+    transition: 0.4s;
+}
